@@ -5,4 +5,4 @@ I'm currently learning NodeJs, ReacJs, Serverless, AWS and everything else I can
 
 Would you like to find me?
 
-[LinkedIn](https://www.linkedin.com/in/ricardo-guizi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-guizi)](https://www.linkedin.com/in/ricardo-guizi)

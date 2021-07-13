@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ricardo Guizi, I'm from Brazil. I'm currently working as Developer at BTG Pactual bank.
+My name is Ricardo Guizi, I'm from Brazil. I'm currently working as Software Engineer at Gupy.
 I'm currently learning NodeJs, ReacJs, Serverless, AWS and everything else I can.
 
 Would you like to find me?

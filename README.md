@@ -12,10 +12,7 @@ Would you like to find me?
 <hr />
 
 <div align="center">
-  <a href="https://github.com/MuriloMarquesSantos">
+  <a href="https://github.com/GuiziBr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiziBr&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiziBr&layout=compact&langs_count=7&theme=gradient"/>
 </div>
-
-
-https://github-readme-stats.vercel.app/api?username=GuiziBr&show_icons=true&theme=gradient&include_all_commits=true&count_private=true

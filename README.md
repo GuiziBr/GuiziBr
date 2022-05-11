@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricardo Guizi, Welcome to my Github 👋
 
-I'm currently working as Software Engineer at Gupy, learning NodeJs, ReactJs, Serverless, AWS, and everything else I can.
+I'm currently working as Software Engineer in Vancouver, Canada, learning NodeJs, ReactJs, Serverless, AWS, and everything else I can.
 
 Would you like to find me?
 
